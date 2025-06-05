@@ -1,1 +1,1 @@
-BMI calculator for android, minimum API 27.
+Simple BMI calculator for android, minimum API 27.
